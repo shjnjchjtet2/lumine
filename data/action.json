@@ -1,0 +1,629 @@
+{
+	"action": [
+		{
+            "id":"dam",
+            "name":"đấm",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645636820369448/cat-cute.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645635616636968/punch-blue-hoodie.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962658673367322664/punch-bearpunch.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962664130152648735/saki-saki-kanojo-mo-kanojo.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165116230336582/weaboo-otaku.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165115911598130/anime-punch_1.gif"
+				}
+			]
+		},
+		{
+            "id":"punch",
+            "name":"đấm",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645636820369448/cat-cute.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645635616636968/punch-blue-hoodie.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962658673367322664/punch-bearpunch.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962664130152648735/saki-saki-kanojo-mo-kanojo.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165116230336582/weaboo-otaku.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165115911598130/anime-punch_1.gif"
+				}
+			]
+		},
+		{
+            "id":"hon",
+            "name":"hôn",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644223549440/blow-kiss-anime.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644462620702/aho-girl.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644735221820/anime-mwah.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644978495518/kiss-anime.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164978044821564/bunny-girl.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977730228244/spoon-snuggle.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977457614908/love-cheek.gif"
+				}
+                
+			]
+		},
+		{
+			"id":"kiss",
+            "name":"hôn",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644223549440/blow-kiss-anime.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644462620702/aho-girl.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644735221820/anime-mwah.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962676644978495518/kiss-anime.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164978044821564/bunny-girl.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977730228244/spoon-snuggle.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977457614908/love-cheek.gif"
+				}
+                
+			]
+		}
+        ,
+        {
+			"id":"tat",
+            "name":"tát",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654645677850674/batman-slap-robin.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677704505843732/anime-slap.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654646080528404/will-smith-chris-rock.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705097216030/saki-saki-mukai-naoya.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705957064704/no-angry.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678236117078048/mm-emu-emu.gif"
+				}
+			]
+		}
+        ,
+        {
+			"id":"slap",
+            "name":"tát",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654645677850674/batman-slap-robin.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677704505843732/anime-slap.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654646080528404/will-smith-chris-rock.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705097216030/saki-saki-mukai-naoya.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705957064704/no-angry.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678236117078048/mm-emu-emu.gif"
+				}
+			]
+		}
+        ,
+        {
+			"id":"om",
+            "name":"ôm",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656323722424371/cat-love.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656323974103110/cat-hugging.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656324192174090/huge-hug-bromance.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678756131102762/teria-wang-kishuku-gakkou-no-juliet.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678756525363250/anime-hug.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164979554746388/anime-hug-hug.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164979101765652/sakura-quest-anime.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164978476838932/anime-hug-anime.gif"
+				}
+			]
+		}
+        ,
+        {
+			"id":"hug",
+            "name":"ôm",
+			"list": [
+                {
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656323722424371/cat-love.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656323974103110/cat-hugging.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962656324192174090/huge-hug-bromance.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678756131102762/teria-wang-kishuku-gakkou-no-juliet.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678756525363250/anime-hug.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164979554746388/anime-hug-hug.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164979101765652/sakura-quest-anime.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164978476838932/anime-hug-anime.gif"
+				}
+			]
+		}
+        ,
+        {
+			"id":"xoadau",
+            "name":"xoa đầu",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679699744632892/mai-sakurajima.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679700638027877/kanna-kamui-pat.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679700109549588/kaede-azusagawa-kaede.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962660883992031322/tumblr_d81068e55cef3bfb81ba71573c2906a7_18d1fad3_640.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164976497115166/anime-head-pat.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164976845250560/charlotte-pat.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977155604480/rikka-head-pat-pat-on-head.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164980083249152/neet-anime.gif"
+				}
+			]
+		}
+        ,
+        {
+			"id":"pat",
+            "name":"xoa đầu",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679699744632892/mai-sakurajima.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679700638027877/kanna-kamui-pat.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962679700109549588/kaede-azusagawa-kaede.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962660883992031322/tumblr_d81068e55cef3bfb81ba71573c2906a7_18d1fad3_640.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164976497115166/anime-head-pat.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164976845250560/charlotte-pat.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164977155604480/rikka-head-pat-pat-on-head.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965164980083249152/neet-anime.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"pinch",
+            "name":"véo",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118981799986/mai-sakurajima-rascal-does-not-dream-of-bunny-girl-senpai.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118654672896/anime-pinch-face.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118243627078/noucome-chocolat.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165117727735848/koisuru-asteroid-asteroid-in-love.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165117417353216/anime-youre-so-cute.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"veo",
+            "name":"véo",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118981799986/mai-sakurajima-rascal-does-not-dream-of-bunny-girl-senpai.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118654672896/anime-pinch-face.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165118243627078/noucome-chocolat.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165117727735848/koisuru-asteroid-asteroid-in-love.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165117417353216/anime-youre-so-cute.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"wave",
+            "name":"vẫy tay với",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165043354337300/wave.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042989400074/wataten-watashi-ni-tenshi-ga-maiorita.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042712580146/anime-wave.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042339303424/shinya-shinyahiragi.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042028920882/gakkou-gurashi-hello.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165041643040788/anime-wave_1.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"vay",
+            "name":"vẫy tay với",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165043354337300/wave.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042989400074/wataten-watashi-ni-tenshi-ga-maiorita.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042712580146/anime-wave.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042339303424/shinya-shinyahiragi.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165042028920882/gakkou-gurashi-hello.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165041643040788/anime-wave_1.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"hit",
+            "name":"đánh",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654645677850674/batman-slap-robin.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677704505843732/anime-slap.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654646080528404/will-smith-chris-rock.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705097216030/saki-saki-mukai-naoya.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705957064704/no-angry.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678236117078048/mm-emu-emu.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645636820369448/cat-cute.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645635616636968/punch-blue-hoodie.gif"
+				},
+				{
+					"id": 8,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962658673367322664/punch-bearpunch.gif"
+				},
+				{
+					"id": 9,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962664130152648735/saki-saki-kanojo-mo-kanojo.gif"
+				},
+				{
+					"id": 10,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165116230336582/weaboo-otaku.gif"
+				},
+				{
+					"id": 11,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165115911598130/anime-punch_1.gif"
+				},
+				{
+					"id": 12,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165043907973140/anime-wasted.gif"
+				},
+				{
+					"id": 13,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165041093582888/baka-slap.gif"
+				},
+				{
+					"id": 14,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165039919177798/anime-smash.gif"
+				}
+			]
+		}
+		,
+		{
+			"id":"danh",
+            "name":"đánh",
+			"list": [
+				{
+					"id": 0,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654645677850674/batman-slap-robin.gif"
+				},
+				{
+					"id": 1,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677704505843732/anime-slap.gif"
+				},
+				{
+					"id": 2,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962654646080528404/will-smith-chris-rock.gif"
+				},
+				{
+					"id": 3,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705097216030/saki-saki-mukai-naoya.gif"
+				},
+				{
+					"id": 4,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962677705957064704/no-angry.gif"
+				},
+				{
+					"id": 5,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962678236117078048/mm-emu-emu.gif"
+				},
+				{
+					"id": 6,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645636820369448/cat-cute.gif"
+				},
+				{
+					"id": 7,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962645635616636968/punch-blue-hoodie.gif"
+				},
+				{
+					"id": 8,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962658673367322664/punch-bearpunch.gif"
+				},
+				{
+					"id": 9,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/962664130152648735/saki-saki-kanojo-mo-kanojo.gif"
+				},
+				{
+					"id": 10,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165116230336582/weaboo-otaku.gif"
+				},
+				{
+					"id": 11,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165115911598130/anime-punch_1.gif"
+				},
+				{
+					"id": 12,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165043907973140/anime-wasted.gif"
+				},
+				{
+					"id": 13,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165041093582888/baka-slap.gif"
+				},
+				{
+					"id": 14,
+					"link": "https://cdn.discordapp.com/attachments/960469353319526400/965165039919177798/anime-smash.gif"
+				}
+			]
+		}
+	],
+    "cau":[
+        {
+            "id":0,
+            "name":"Cẩn thận, có kẻ muốn"
+        }
+        ,
+        {
+            "id":1,
+            "name":"Có ai đó muốn"
+        }
+        ,
+        {
+            "id":2,
+            "name":"Một người ẩn danh muốn"
+        }
+
+    ],
+    "actionList":[
+        "hon/kiss",
+        "om/hug",
+        "xoadau/pat",
+        "vay/wave",
+        "veo/pinch",
+        "danh/hit",
+        "dam/punch",
+        "tat/slap"
+    ]
+}

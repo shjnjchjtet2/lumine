@@ -1,0 +1,196 @@
+{
+    "giftXua" : 
+    [
+        
+     {
+         "id":0,
+         "description":"50 điểm xủa"
+     }
+      , 
+     {
+         "id": 1,
+         "description":"1 điểm xủa"
+     } 
+      ,
+     {
+         "id":2,
+         "description":"99 điểm xủa"
+     } 
+      ,
+     {
+         "id":3,
+         "description":"111 điểm xủa"
+     } 
+      ,
+     {
+         "id":4,
+         "description":"499 điểm xủa"
+     } 
+      ,
+     {
+         "id":5,
+         "description":"250 điểm xủa"
+     } 
+      ,
+     {
+         "id":6,
+         "description":"123 điểm xủa"
+     } 
+      ,
+     {
+         "id":7,
+         "description":"69 điểm xủa"
+     } 
+    ],
+    "gift" : 
+    [
+        
+     {
+         "id":0,
+         "description":"1001 điểm xủa"
+     }
+      , 
+     {
+         "id": 1,
+         "description":"2077 điểm xủa"
+     } 
+      ,
+     {
+         "id":2,
+         "description":"1234 điểm xủa"
+     } 
+      ,
+     {
+         "id":3,
+         "description":"2468 điểm xủa"
+     } 
+      ,
+     {
+         "id":4,
+         "description":"1111 điểm xủa <a:GI_kleeyay:960909526222118944>"
+     } 
+      ,
+     {
+         "id":5,
+         "description":"2022 điểm xủa <a:GI_raidenlightsticks:960516861672431656>"
+     } 
+      ,
+     {
+         "id":6,
+         "description":"3000 điểm xủa <a:emo_nomnom:960909518181630014>"
+     } 
+      ,
+     {
+         "id":7,
+         "description":"69 điểm xủa <a:moe_yes:960909523248357416>"
+     } 
+    ],
+    "congrat":[
+        {
+            "id":0,
+            "name":"trong lúc chém gió đã vô tình vấp phải 1 túi chứa"
+        }
+        ,
+        {
+            "id":1,
+            "name":"ai đấy đã ném vào mặt bạn"
+        }
+        ,
+        {
+            "id":2,
+            "name":"vì bạn quá cute nên Lumine quyết định tặng bạn"
+        }
+    ],
+    "icon":[
+        {
+            "id":0,
+            "name":"https://cdn.discordapp.com/emojis/960922604061999184.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":1,
+            "name":"https://cdn.discordapp.com/emojis/959871760868720720.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":2,
+            "name":"https://cdn.discordapp.com/emojis/959871647995813898.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":3,
+            "name":"https://cdn.discordapp.com/emojis/960516861043286066.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":4,
+            "name":"https://cdn.discordapp.com/emojis/960909524376625163.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":5,
+            "name":"https://cdn.discordapp.com/emojis/960909537949417482.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":6,
+            "name":"https://cdn.discordapp.com/emojis/960909523684577320.gif?size=128&quality=lossless"
+        }
+        ,
+        {
+            "id":7,
+            "name":"https://cdn.discordapp.com/emojis/960516861135581204.gif?size=128&quality=lossless"
+        }
+    ],
+    "element": 
+    [
+        {
+            "name": "Pyro",
+            "vnName": "Hệ Hỏa",
+            "color": "#da8143",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956949964699893780/pyroglow.png",
+            "icon": "956926521052905492",
+            "characters": "Bennett \n Diluc \n Klee \n Hutao \n Xiangling \n Yoimiya \n"
+        },
+        {
+            "name": "Cryo",
+            "vnName": "Hệ Băng",
+            "color": "#4da8bb",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956948973359333539/cryoglow.png",
+            "icon": "956926521023549460",
+            "characters": "Ayaka \n Eula \n Ganyu \n Qiqi \n"
+        },
+        {
+            "name": "Hydro",
+            "vnName": "Hệ Thủy",
+            "color": "#15a5ce",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191747723405/hydroglow.png",
+            "icon": "956926520960643132",
+            "characters": "Childe \n Xingqiu \n"
+        },
+        {
+            "name": "Electro",
+            "vnName": "Hệ Lôi",
+            "color": "#8e54b4",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191303094302/electroglow.png",
+            "icon": "956926522705465364",
+            "characters": "Beidou \n Fischl \n Keqing \n Raiden - RaidenShogun - Ei \n Sara \n"
+        },
+        {
+            "name": "Anemo",
+            "vnName": "Hệ Phong",
+            "color": "#3b945",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951828065579018/anemoglow2.png",
+            "icon": "956926522567049338",
+            "characters":  "Jean \n Venti \n Kazuha \n Sucrose \n Xiao \n"
+        },
+        {
+            "name": "Geo",
+            "vnName": "Hệ Nham",
+            "color": "#d5a639",
+            "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191529607188/geoglow.png",
+            "icon": "956926521627525280",
+            "characters": "Noelle \n Zhongli \n"
+        }        
+    ]         
+}

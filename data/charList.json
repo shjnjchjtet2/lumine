@@ -1,0 +1,1215 @@
+{
+  "element": [
+    {
+      "name": "Pyro",
+      "vnName": "Hệ Hỏa",
+      "color": "#da8143",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956949964699893780/pyroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513532465000459/311281303_5947990215211281_1177024193078908415_n.jpg",
+      "icon": "956926521052905492",
+      "characters": "Bennett \nDiluc \nHutao \nKlee \nHutao \nThoma \nXiangling \nXinyan \nYanfei \nYoimiya \n"
+    },
+    {
+      "name": "Cryo",
+      "vnName": "Hệ Băng",
+      "color": "#4da8bb",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956948973359333539/cryoglow.png",
+      "img": "https://cdn.discordapp.com/attachments/960469353319526400/1048517765964767232/313983484_6028627123814256_8299641953238489282_n.jpg",
+      "icon": "956926521023549460",
+      "characters": "Aloy \nAyaka \nChongyun \nEula \nGanyu \nKaeya \nQiqi \nShenhe \n"
+    },
+    {
+      "name": "Hydro",
+      "vnName": "Hệ Thủy",
+      "color": "#15a5ce",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191747723405/hydroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513533194809425/313168222_5976115562398746_781024761116371760_n.jpg",
+      "icon": "956926520960643132",
+      "characters": "Ayato \nChilde - Tartaglia \nKokomi \nMona \nNilou \nXingqiu \nYelan \n"
+    },
+    {
+      "name": "Electro",
+      "vnName": "Hệ Lôi",
+      "color": "#8e54b4",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191303094302/electroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513532917989446/311776244_5930413263635643_8039840507457520086_n.jpg",
+      "icon": "956926522705465364",
+      "characters": "Beidou \nCyno \nFischl \nKeqing \nRaiden - RaidenShogun - Ei \nRazor \nSara \nYae - YaeMiko \n"
+    },
+    {
+      "name": "Anemo",
+      "vnName": "Hệ Phong",
+      "color": "#3b945",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951828065579018/anemoglow2.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513533450670120/313437115_5991035697573399_3142900837391653917_n.jpg",
+      "icon": "956926522567049338",
+      "characters": "Heizou \nJean \n Kazuha \nSayu \nSucrose \nVenti \nXiao \n "
+    },
+    {
+      "name": "Geo",
+      "vnName": "Hệ Nham",
+      "color": "#d5a639",
+      "thumnail": "https://cdn.discordapp.com/attachments/952167603160375306/956951191529607188/geoglow.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513532674723860/311477521_5919293178080985_645998849273333884_n.jpg",
+      "icon": "956926521627525280",
+      "characters": "Albedo \nGorou \nItto \nNingguang \nNoelle \nTraveler \nYunjin \nZhongli \n"
+    },
+    {
+      "name": "Dendro",
+      "vnName": "Hệ Thảo",
+      "color": "#96be25",
+      "thumnail": "https://cdn.discordapp.com/attachments/953912033651326986/1003308200583499897/dendroglow.png",
+      "img": "https://cdn.discordapp.com/attachments/657115586287108107/1048513532142043166/893d49157655795.637d00f82927b.jpg",
+      "icon": "1003477650804850709",
+      "characters": "Tighnari \n"
+    }
+  ],
+  "character": [
+    {
+      "charName": "traveler",
+      "color": "#000000",
+      "image": [
+        {
+          "style": "Anemo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838228705431613/QG_traveler-anemo.png"
+        },
+        {
+          "style": "Geo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229217128448/QG_traveler-geo.png"
+        },
+        {
+          "style": "Electro - Battery Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229804351528/QG_traveler-electro.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "main",
+      "color": "#000000",
+      "image": [
+        {
+          "style": "Anemo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838228705431613/QG_traveler-anemo.png"
+        },
+        {
+          "style": "Geo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229217128448/QG_traveler-geo.png"
+        },
+        {
+          "style": "Electro - Battery Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229804351528/QG_traveler-electro.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "traveller",
+      "color": "#000000",
+      "image": [
+        {
+          "style": "Anemo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838228705431613/QG_traveler-anemo.png"
+        },
+        {
+          "style": "Geo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229217128448/QG_traveler-geo.png"
+        },
+        {
+          "style": "Electro - Battery Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229804351528/QG_traveler-electro.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "mc",
+      "color": "#000000",
+      "image": [
+        {
+          "style": "Anemo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838228705431613/QG_traveler-anemo.png"
+        },
+        {
+          "style": "Geo - Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229217128448/QG_traveler-geo.png"
+        },
+        {
+          "style": "Electro - Battery Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976838229804351528/QG_traveler-electro.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "tighnari",
+      "color": "#96be25",
+      "image": [
+        {
+          "style": "Quickswap DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1015973285927862282/TIGHNARI_QG_3.0.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "aloy",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Quickswap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976447664457678888/QG_ALOY_quickswap_2.6.png"
+        },
+        {
+          "style": "Freeze DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/976447664994529290/QG_ALOY_freezedps_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "yanfei",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Main DPS (Vape)",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/975706230410580018/YANFEI_QQ_2.6.png"
+        },
+        {
+          "style": "Main DPS (EM)",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/975733953111666718/YANFEI_QG_EM_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "yelan",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Sub DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/985946602575388672/YELAN_QG_2.7.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "nilou",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Enabler/Driver",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1033070770676584578/NILOU_QG_3.1.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "shenhe",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/986284353065738310/SHENHE_QG_2.4.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "ningguang",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Main Carry - Burst Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/975348747955494942/NINGGUANG_QQ_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "mona",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Burst Support - Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/975007315419860992/QG_Mona_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "gorou",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/975305818721357884/GOROU_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "itto",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/989825453357412352/4577e1af2f048a5f28caa6355889edf6_308318256435629823.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "chongyun",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Burst Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967373303733948416/QG_CHONGYUN_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "sayu",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Burst Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/974615295866048532/SAYU_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "heizou",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Driver - QuickSwap",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1007597053330854009/HEIZOU_QG_2.8.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "razor",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/974586362059685888/RAZOR_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "diona",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967414476259360848/DIONA_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "yunjin",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967383284269060157/YUNJIN_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "albedo",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Sub DPS ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967472796047396934/QG_ALBEDO_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "beidou",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Sub Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558583012065300/BEIDOU_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "bennett",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558583616040980/BENNET_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "childe",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/986356985744195654/CHILDE_QG_2.7.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "kokomi",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Support ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967487747428347984/QG_Kokomi_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "tartaglia",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558797580070992/CHILDE_QG_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "diluc",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558582441615380/DILUC_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "fischl",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Sub DPS ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558584874311770/FISCHL_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "jean",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Support - Sub DPS ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558798750273606/JEAN_QQ_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "klee",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558799324880906/KLEE_QQ_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "ayaka",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558880019091497/QG_AYAKA_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "eula",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558798221787186/QG_EULA_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "ganyu",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558879494819890/QG_GANYU_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "hutao",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Main Carry ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1006511289809510502/QG_HUTAO_2.8.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "kazuha",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Support - Enabler ",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558877502517268/QG_KAZUHA_2.5.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "keqing",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558655133122590/QG_KEQING_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "noelle",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558655787417660/QG_Noelle_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "xiao",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/962595569761656892/QG_Xiao_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "qiqi",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Support - Enabler",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558799903715338/QG_QQ_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "ei",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967813509373116456/QG_RAIDEN_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "raidenshogun",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967813509373116456/QG_RAIDEN_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "raiden",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967813509373116456/QG_RAIDEN_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "cyno",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Main DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1027124373078945822/CYNO_QG_3.1.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "venti",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Support - Enabler",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558878169423984/QG_VENTI_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "xingqiu",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Sub DPS - Enabler",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558878957944852/QG_XINGQIU_2.5.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "yae",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Sub DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/971246423037337610/QG_YAEMIKO_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "yaemiko",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Sub DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/971246423037337610/QG_YAEMIKO_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "johnlee",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558581443366972/QG_ZHONGLI_2.5.pn"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "zhongli",
+      "color": "#d5a639",
+      "image": [
+        {
+          "style": "Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558581443366972/QG_ZHONGLI_2.5.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "sara",
+      "color": "#8e54b4",
+      "image": [
+        {
+          "style": "Burst Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558585759330344/SARA_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "sucrose",
+      "color": "#3b945",
+      "image": [
+        {
+          "style": "Support - Enabler",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558581913124924/SUCROSE_FINAL2.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "xiangling",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Sub Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/955558584228401202/XIANGLING_FINAL.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "yoimiya",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/1006511289289429032/YOIMIYA_QG_2.8.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "ayato",
+      "color": "#15a5ce",
+      "image": [
+        {
+          "style": "Main Carry",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/978202267285073920/QG_AYATO_2.6.png"
+        }
+      ],
+      "fgCheck": true
+    },
+    {
+      "charName": "thoma",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Support",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/961942660174721044/THOMA_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "kaeya",
+      "color": "#4da8bb",
+      "image": [
+        {
+          "style": "Sub DPS - Enabler",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/962328357796741180/QG_KAEYA_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    },
+    {
+      "charName": "xinyan",
+      "color": "#da8143",
+      "image": [
+        {
+          "style": "Sub DPS",
+          "img": "https://cdn.discordapp.com/attachments/955557885771919480/967478149996761158/XINYAN_QG_2.6.png"
+        }
+      ],
+      "fgCheck": false
+    }
+  ],
+  "fullGuide": [
+    {
+      "name": "zhongli",
+      "link": "https://youtu.be/GFOAH-BMZNY"
+    },
+    {
+      "name": "johnlee",
+      "link": "https://youtu.be/GFOAH-BMZNY"
+    },
+    {
+      "name": "itto",
+      "link": "https://youtu.be/5OUwKgLe7vc"
+    },
+    {
+      "name": "ei",
+      "link": "https://youtu.be/V8sRzxMCbpo"
+    },
+    {
+      "name": "raidenshogun",
+      "link": "https://youtu.be/V8sRzxMCbpo"
+    },
+    {
+      "name": "raiden",
+      "link": "https://youtu.be/V8sRzxMCbpo"
+    },
+    {
+      "name": "yae",
+      "link": "https://youtu.be/CE9k8soZBvg"
+    },
+    {
+      "name": "yaemiko",
+      "link": "https://youtu.be/CE9k8soZBvg"
+    },
+    {
+      "name": "albedo",
+      "link": "https://youtu.be/m5fJ48ccvj8"
+    },
+    {
+      "name": "shenhe",
+      "link": "https://youtu.be/3TzGMUDSziU"
+    },
+    {
+      "name": "ayato",
+      "link": "https://youtu.be/3UmgRHjkR_I"
+    },
+    {
+      "name": "kazuha",
+      "link": "https://youtu.be/RkahS8CfPB0"
+    },
+    {
+      "name": "yoimiya",
+      "link": "https://www.youtube.com/watch?v=Nblshmd6xX0"
+    },
+    {
+      "name": "heizou",
+      "link": "https://www.youtube.com/watch?v=LWi_EeFti6U"
+    },
+    {
+      "name": "tighnari",
+      "link": "https://youtu.be/qaRgKChjnZ8"
+    },
+    {
+      "name": "cyno",
+      "link": "https://www.youtube.com/watch?v=TiZSS3kLdSE"
+    },
+    {
+      "name": "nilou",
+      "link": "https://www.youtube.com/watch?v=kvUee-cnCns"
+    },
+    {
+      "name": "nahida",
+      "link": "https://www.youtube.com/watch?v=DF-sOnZtZCA"
+    },
+    {
+      "name": "buer",
+      "link": "https://www.youtube.com/watch?v=DF-sOnZtZCA"
+    }
+  ],
+  "spamChannel": [
+    "953912033651326986",
+    "952167603160375306",
+    "657115586287108107",
+    "962316199226654740"
+  ],
+  "dropDownElement": [
+    {
+      "label": "Hỏa",
+      "description": " ",
+      "emoji": "956926521052905492",
+      "value": "pyro"
+    },
+    {
+      "label": "Băng",
+      "description": " ",
+      "emoji": "956926521023549460",
+      "value": "cryo"
+    },
+    {
+      "label": "Thủy",
+      "description": " ",
+      "emoji": "956926520960643132",
+      "value": "hydro"
+    },
+    {
+      "label": "Lôi",
+      "description": " ",
+      "emoji": "956926522705465364",
+      "value": "electro"
+    },
+    {
+      "label": "Phong",
+      "description": " ",
+      "emoji": "956926522567049338",
+      "value": "anemo"
+    },
+    {
+      "label": "Nham",
+      "description": " ",
+      "emoji": "956926521627525280",
+      "value": "geo"
+    },
+    {
+      "label": "Thảo",
+      "description": " ",
+      "emoji": "1003477650804850709",
+      "value": "dendro"
+    }
+  ],
+  "dropDown": [
+    {
+      "ele": "pyro",
+      "label": "Hỏa",
+      "emoji": "<:pyro:956926521052905492>",
+      "char": [
+        {
+          "label": "Bennett",
+          "description": " ",
+          "emoji": "1046355346911924284",
+          "value": "Bennett"
+        },
+        {
+          "label": "Diluc",
+          "description": " ",
+          "emoji": "1046355354155499550",
+          "value": "Diluc"
+        },
+        {
+          "label": "Yoimiya",
+          "description": " ",
+          "emoji": "1046366067813007360",
+          "value": "Yoimiya"
+        },
+        {
+          "label": "Yanfei",
+          "description": " ",
+          "emoji": "1046366060766568458",
+          "value": "Yanfei"
+        },
+        {
+          "label": "Xinyan",
+          "description": " ",
+          "emoji": "1046366063845195807",
+          "value": "Xinyan"
+        },
+        {
+          "label": "Xiangling",
+          "description": " ",
+          "emoji": "1046355424837914624",
+          "value": "Xiangling"
+        },
+        {
+          "label": "Thoma",
+          "description": " ",
+          "emoji": "1046355414519926824",
+          "value": "Thoma"
+        },
+        {
+          "label": "Klee",
+          "description": " ",
+          "emoji": "1046355378536972388",
+          "value": "Klee"
+        },
+        {
+          "label": "Hutao",
+          "description": " ",
+          "emoji": "1046355330944225280",
+          "value": "Hutao"
+        }
+      ]
+    },
+    {
+      "ele": "cryo",
+      "label": "Băng",
+      "emoji": "<:cryo:956926521023549460>",
+      "char": [
+        {
+          "label": "Shenhe",
+          "description": " ",
+          "emoji": "1046365772794036264",
+          "value": "Shenhe"
+        },
+        {
+          "label": "Qiqi",
+          "description": " ",
+          "emoji": "1046365769312768030",
+          "value": "Qiqi"
+        },
+        {
+          "label": "Kaeya",
+          "description": " ",
+          "emoji": "1046355374044880906",
+          "value": "Kaeya"
+        },
+        {
+          "label": "Ganyu",
+          "description": " ",
+          "emoji": "1046355363362000896",
+          "value": "Ganyu"
+        },
+        {
+          "label": "Eula",
+          "description": " ",
+          "emoji": "1046355327492300851",
+          "value": "Eula"
+        },
+        {
+          "label": "Chongyun",
+          "description": " ",
+          "emoji": "1046355350384812132",
+          "value": "Chongyun"
+        },
+        {
+          "label": "Ayaka",
+          "description": " ",
+          "emoji": "1046355334345793666",
+          "value": "Ayaka"
+        },
+        {
+          "label": "Aloy",
+          "description": " ",
+          "emoji": "1046355321234407464",
+          "value": "Aloy"
+        }
+      ]
+    },
+    {
+      "ele": "hydro",
+      "label": "Thủy",
+      "emoji": "<:hydro:956926520960643132>",
+      "char": [
+        {
+          "label": "Yelan",
+          "description": " ",
+          "emoji": "1048499288151437394",
+          "value": "Yelan"
+        },
+        {
+          "label": "Xingqiu",
+          "description": " ",
+          "emoji": "1046355431246794792",
+          "value": "Xingqiu"
+        },
+        {
+          "label": "Nilou",
+          "description": " ",
+          "emoji": "1046367970961653831",
+          "value": "Nilou"
+        },
+        {
+          "label": "Mona",
+          "description": " ",
+          "emoji": "1046355385688264804",
+          "value": "Mona"
+        },
+        {
+          "label": "Kokomi",
+          "description": " ",
+          "emoji": "1046355404055130133",
+          "value": "Kokomi"
+        },
+        {
+          "label": "Childe",
+          "description": " ",
+          "emoji": "1046355410413694986",
+          "value": "Childe"
+        },
+        {
+          "label": "Ayato",
+          "description": " ",
+          "emoji": "1046367956751360050",
+          "value": "Ayato"
+        }
+      ]
+    },
+    {
+      "ele": "electro",
+      "label": "Lôi",
+      "emoji": "<:electro:956926522705465364>",
+      "char": [
+        {
+          "label": "Yae Miko",
+          "description": " ",
+          "emoji": "1046365777139355669",
+          "value": "Yae Miko"
+        },
+        {
+          "label": "Sara",
+          "description": " ",
+          "emoji": "1046355382144094348",
+          "value": "Sara"
+        },
+        {
+          "label": "Razor",
+          "description": " ",
+          "emoji": "1046365168696819772",
+          "value": "Razor"
+        },
+        {
+          "label": "Raiden",
+          "description": " ",
+          "emoji": "1046355396182413392",
+          "value": "Raiden"
+        },
+        {
+          "label": "Keqing",
+          "description": " ",
+          "emoji": "1046365161902051368",
+          "value": "Keqing"
+        },
+        {
+          "label": "Fischl",
+          "description": " ",
+          "emoji": "1046355360723763220",
+          "value": "Fischl"
+        },
+        {
+          "label": "Cyno",
+          "description": " ",
+          "emoji": "1046367966817689600",
+          "value": "Cyno"
+        },
+        {
+          "label": "Beidou",
+          "description": " ",
+          "emoji": "1046355344017854515",
+          "value": "Beidou"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "anemo",
+      "label": "Phong",
+      "emoji": "<:anemo:956926522567049338>",
+      "char": [
+        {
+          "label": "Xiao",
+          "description": " ",
+          "emoji": "1046355428126228570",
+          "value": "Xiao"
+        },
+        {
+          "label": "Venti",
+          "description": " ",
+          "emoji": "1046355418139611156",
+          "value": "Venti"
+        },
+        {
+          "label": "Sucrose",
+          "description": " ",
+          "emoji": "1046355407473479771",
+          "value": "Sucrose"
+        },
+        {
+          "label": "Sayu",
+          "description": " ",
+          "emoji": "1046368398126362645",
+          "value": "Sayu"
+        },
+        {
+          "label": "Kazuha",
+          "description": " ",
+          "emoji": "1046355370106441788",
+          "value": "Kazuha"
+        },
+        {
+          "label": "Jean",
+          "description": " ",
+          "emoji": "1046355366264438784",
+          "value": "Jean"
+        },
+        {
+          "label": "Heizou",
+          "description": " ",
+          "emoji": "1046367960467521556",
+          "value": "Heizou"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "geo",
+      "label": "Nham",
+      "emoji": "<:geo:956926521627525280>",
+      "char": [
+        {
+          "label": "Zhongli",
+          "description": " ",
+          "emoji": "1046355434073763910",
+          "value": "Zhongli"
+        },
+        {
+          "label": "Yunjin",
+          "description": " ",
+          "emoji": "1046365172110999573",
+          "value": "Yunjin"
+        },
+        {
+          "label": "Noelle",
+          "description": " ",
+          "emoji": "1046355392566931516",
+          "value": "Noelle"
+        },
+        {
+          "label": "Ningguang",
+          "description": " ",
+          "emoji": "1046355388586532904",
+          "value": "Ningguang"
+        },
+        {
+          "label": "Itto",
+          "description": " ",
+          "emoji": "1046365164582211635",
+          "value": "Itto"
+        },
+        {
+          "label": "Gorou",
+          "description": " ",
+          "emoji": "1046365157661618256",
+          "value": "Gorou"
+        },
+        {
+          "label": "Albedo",
+          "description": " ",
+          "emoji": "1046355341304147968",
+          "value": "Albedo"
+        },
+        {
+          "label": "Traveller",
+          "description": " ",
+          "emoji": "1046355338401689630",
+          "value": "Traveller"
+        }
+      ]
+    },
+    {
+      "ele": "dendro",
+      "label": "Thảo",
+      "emoji": "<:dendro:1003477650804850709>",
+      "char": [
+        {
+          "label": "Tighnari",
+          "description": " ",
+          "emoji": "1046367963697127485",
+          "value": "Tighnari"
+        }
+      ]
+    }
+  ]
+}
